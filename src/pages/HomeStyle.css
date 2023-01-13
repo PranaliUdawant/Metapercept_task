@@ -1,0 +1,32 @@
+.box {
+    height: 400px;
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(100, 175, 232), rgb(103, 73, 155));
+}
+
+.box .title {
+    text-align: center;
+    color: aliceblue;
+}
+
+.box .title .heading {
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+.box .title .info {
+    font-size: 18px;
+    width: 500px;
+}
+
+.container .classes .heading {
+    text-align: center;
+    font-size: 35px;
+}
+
+
+#card {
+    display: flex;
+    justify-content: space-between;
+
+}
